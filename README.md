@@ -1,4 +1,4 @@
-# monster_screens
+# Monster_Screens
 
 This is a simple Twitter bot that posts a screenshot of my favorite anime Monster every 5 hours.
 
