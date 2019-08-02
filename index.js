@@ -52,11 +52,11 @@ fs.readdir(directoryPath, function (err, screenshots) {
 		}
 	});
     });
-   /* try{
+    try{
 	fs.unlinkSync(`${directoryPath}/${imageToPost}`);
 	console.log('removed')
     } catch(err){
 	console.log(`That didn't work, here's the error: ${err}`);
-    } */
+    }
 });
 
