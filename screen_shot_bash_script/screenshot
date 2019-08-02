@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Now capturing screenshots"
+while :;
+do screencapture /Volumes/Macintosh\ HD/Snapshots.nosync/monster-$(date +%y%m%d%H%M%S).jpg;sleep 25;
+done
