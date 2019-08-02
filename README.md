@@ -1,8 +1,8 @@
 # monster_screens
 
-This is a simple Twitter bot that posts a screenshot of my favorite anime Monster every hour.
+This is a simple Twitter bot that posts a screenshot of my favorite anime Monster every 5 hours.
 
-A bash script executes a node script that posts to twitter every hour.
+A bash script with a sleep timer executes a node script that posts to twitter.
 
 To learn more about the anime, check it out here: https://en.wikipedia.org/wiki/Monster_(manga)#Anime
 
