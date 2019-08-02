@@ -1,0 +1,7 @@
+Tmux is running in the background and that's executing the script.
+
+type tmux -ls to find the service
+
+then to reattatch, type:
+
+tmux attach-session -t [session_name] 
